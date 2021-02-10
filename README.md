@@ -1,5 +1,5 @@
 # DarwinWorld 
-Simple 2d simulation that visualise basics animals life processes in jungle. Was made with the purpose of broaden knowledge of Java nad JavaFX.
+Simple 2d simulation that visualise basics animals' life processes in jungle. Was made with the purpose of broaden knowledge of Java nad JavaFX.
 
 ## Technologies
 
