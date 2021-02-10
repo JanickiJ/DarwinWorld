@@ -1,0 +1,7 @@
+Average statistics of n ages after inserting n
+Average Lifetime: 27.66
+Average energy: 35.55
+Average num of children: 2.65
+Average num of grass: 56.23
+Average num of alive animals: 77.4
+Dominating genome: [0, 0, 1, 1, 1, 1, 1, 1, 2, 2, 3, 3, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 7, 7, 7]
